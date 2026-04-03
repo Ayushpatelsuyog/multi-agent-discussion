@@ -1,0 +1,5 @@
+{
+  "name": "Multi-Agent Debate Arena",
+  "description": "An application where multiple AI agents with different personas debate a topic and provide a final synthesized conclusion.",
+  "requestFramePermissions": []
+}
